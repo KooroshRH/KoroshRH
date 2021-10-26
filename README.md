@@ -1,4 +1,13 @@
-### Hi there 👋
+# Welcome to my github profile
+
+## About me
+Computer engineering student with a background in software development with over 2 years of experience in the game industry. In the previous position, helped the best-selling Iranian game by changing the whole game development platform from corona game engine to Unity game engine. Also doing research in deep learning topics specifically computer vision and generative models.
+
+## Contact
+[linkedin](https://www.linkedin.com/in/korosh-roohi-a21a21182/)  
+[Email](korosh.roohi9731@gmail.com)  
+[Telegram](https://t.me/koroshroohi)  
+[Instagram](https://www.instagram.com/koroshroohi/)  
 
 <!--
 **KoroshRH/KoroshRH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
