@@ -1,26 +1,10 @@
 # Welcome to my github profile
 
 ## About me
-Computer engineering student with a background in software development with over 2 years of experience in the game industry. In the previous position, helped the best-selling Iranian game by changing the whole game development platform from corona game engine to Unity game engine. Also doing research in deep learning topics specifically computer vision and generative models.
+I am a Computer engineering student with a background in software development with over two years of experience in the game industry. I helped the best-selling Iranian game in the previous position by changing the whole game development platform from the corona game engine to the Unity game engine. I am also researching deep learning topics, computer vision, and generative models.
 
 ## Contact
 [linkedin](https://www.linkedin.com/in/korosh-roohi-a21a21182/)  
 [Email](korosh.roohi9731@gmail.com)  
 [Telegram](https://t.me/koroshroohi)  
 [Instagram](https://www.instagram.com/koroshroohi/)  
-
-<!--
-**KoroshRH/KoroshRH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
