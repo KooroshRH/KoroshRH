@@ -1,10 +1,5 @@
 # Welcome to my github profile
 
-## About me
-- I'm interested in **Computer Vision** and it's usages in different fields like security, medical, and quality assurance
-- I'm currently working on a project about **person reidentification**
-- I worked with **Unity Game Engine** for approximtly 2 years on a migration project from corona game engine
-
 ## Github stats
 <p align="center">
 <a href="https://github.com/AVS1508">
